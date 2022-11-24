@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvraj</h1>
-<h3 align="center">I am 3rd year Student of CSE</h3>
+<h3 align="center">I am pursuing B.tech</h3>
 
 - 📫 How to reach me **dhruvrajvyas@gmail.com**
 
